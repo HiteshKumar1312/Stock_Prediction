@@ -65,7 +65,7 @@ const Sidebar: React.FC<SidebarProps> = ({ open, onClose }) => {
             <line x1="10" y1="1" x2="10" y2="4"></line>
             <line x1="14" y1="1" x2="14" y2="4"></line>
           </svg>
-          <span className="text-xl font-bold text-foreground">AddySense</span>
+          <span className="text-xl font-bold text-foreground">HoodaSense</span>
         </div>
         <nav className="mt-8 flex-1 px-4 space-y-1">
           {navItems.map((item) => (
