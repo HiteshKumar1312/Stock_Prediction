@@ -76,3 +76,6 @@ npm run build
 - Lightweight Charts
 - Express (Production server)
 - Socket.io (Real-time updates) 
+
+
+Deployed Link : https://stock-prediction-orc1.onrender.com
